@@ -2,8 +2,10 @@
 title: "About Me"
 about:
   id: me
-  template: broadside
+  template: trestles
   image: img/IMG_0056.png
+  image-shape: round # or rectangle, rounded
+  image-width: 20em
 ---
 
 :::{#me}
