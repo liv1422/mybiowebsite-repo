@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology.\nThanks for checking out my web site!"
+    "text": "I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology.\n\n\n\nI have lab experience\nThanks for checking out my web site!"
   },
   {
     "objectID": "index.html#education",
@@ -26,5 +26,12 @@
     "title": "About Me",
     "section": "",
     "text": "I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "I have lab experience"
   }
 ]
