@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_0056.png
 ---
 
 :::{#me}
@@ -11,6 +11,7 @@ about:
 ## Goals
 
 ## Education
+I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology. 
 
 ## Experience
 
