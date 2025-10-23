@@ -1,37 +1,86 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "I am currently working with data from my internship with Dr. Jellison’s Lab."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#respiration-data-from-summer-internship",
+    "href": "projects.html#respiration-data-from-summer-internship",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "I am currently working with data from my internship with Dr. Jellison’s Lab."
+  },
+  {
+    "objectID": "projects.html#biotoxicity-in-commercially-important-shellfish-undergraduate-internship-in-dr.-jellisons-lab",
+    "href": "projects.html#biotoxicity-in-commercially-important-shellfish-undergraduate-internship-in-dr.-jellisons-lab",
+    "title": "Projects",
+    "section": "Biotoxicity in Commercially Important Shellfish Undergraduate Internship in Dr. Jellison’s Lab",
+    "text": "Biotoxicity in Commercially Important Shellfish Undergraduate Internship in Dr. Jellison’s Lab\nI was an Undergraduate Research Assistant for Hannah Gossner’s PhD research project over the summer. This project was investigating the effects of biotoxicity on commercially important bivalve species in varying water conditions relating to climate change. In this position I cared for the lab organisms (bivalves and phytoplankton), cared for the aquaria (Neptune Systems APEX), and collected experimental data (respiration results, pseudo-feces samples, bivalve tissue, water samples, and water parameters)."
+  },
+  {
+    "objectID": "projects.html#habitat-use-of-new-zealand-long-tailed-bats-chalinolobus-tuberculatus-in-a-fragmented-habitat",
+    "href": "projects.html#habitat-use-of-new-zealand-long-tailed-bats-chalinolobus-tuberculatus-in-a-fragmented-habitat",
+    "title": "Projects",
+    "section": "Habitat use of New Zealand long-tailed bats (Chalinolobus tuberculatus) in a fragmented habitat",
+    "text": "Habitat use of New Zealand long-tailed bats (Chalinolobus tuberculatus) in a fragmented habitat\nI conducted research on New Zealand long-tailed bats as part of my directed research project in my time studying abroad in New Zealand with the EcoQuest Centre for Indigeneity, Ecology and Creativity. Finding Franklin Bats is an ongoing study in Franklin, NZ to understand the ecology of these bats and to educate the public. During my project I created and carried out education plans for primary school children (K-6th). I also participated in field work to locate roosts, track the movement of tagged bats, and deploy acoustic bat monitors (ABMs). After data collection, we presented our findings to the public."
+  },
+  {
+    "objectID": "projects.html#undergraduate-research-assistant-in-dr.-jellisons-lab",
+    "href": "projects.html#undergraduate-research-assistant-in-dr.-jellisons-lab",
+    "title": "Projects",
+    "section": "Undergraduate Research Assistant in Dr. Jellison’s Lab",
+    "text": "Undergraduate Research Assistant in Dr. Jellison’s Lab\nI measured images of Eastern Oyster spat using ImageJ and processed water samples for alkalinity using a Metrohm titrator and Robotic Titrosampler with Tiamo 3.0."
+  },
+  {
+    "objectID": "projects.html#characteristics-of-wild-moose-alces-alces-vocalizations",
+    "href": "projects.html#characteristics-of-wild-moose-alces-alces-vocalizations",
+    "title": "Projects",
+    "section": "Characteristics of wild moose (Alces alces) vocalizations",
+    "text": "Characteristics of wild moose (Alces alces) vocalizations\nI was an Undergraduate Researcher on this project where we collected videos of Moose bulls, cows, and calves vocalizing on YouTube, analyzed them for peak frequency, center frequency, bandwidth, and duration across sex classes. This study was conducted with the intent to develop passive acoustic detection for Moose. This study was published with the title “Characteristics of wild moose (Alces alces) vocalizations”.\nhttps://doi.org/10.1121/10.0025465"
+  },
+  {
+    "objectID": "projects.html#anthropogenic-effects-on-american-bullfrog-vocalizations",
+    "href": "projects.html#anthropogenic-effects-on-american-bullfrog-vocalizations",
+    "title": "Projects",
+    "section": "Anthropogenic effects on American Bullfrog vocalizations",
+    "text": "Anthropogenic effects on American Bullfrog vocalizations\nI was an Undergraduate Researcher on this project where I used previously collected data on American Bullfrog vocalizations in ponds around Durham, NH. I compared the vocalizations (bandwidth, center frequency, and SNR NIST quick) to the whistle from the train running through the area to investigate if any changes in bullfrog vocalizations occured before, during, and after the train whistle."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology.\n\n\n\nI have lab experience\nThanks for checking out my web site!"
+    "text": "I am interested in research and education. I really enjoy participating in science whether that be assisting others with research or conducting my own projects. I also enjoy educating others, especially the public, about animals and our environment.\n\n\n\nI am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology. I have taken classes at Shoals Marine Laboratory including Marine Mammal Biology, Sustainable Fisheries, and Shark Biology and Conservation. I was also chosen to partake in an ecology based study abroad opportunity in New Zealand with the EcoQuest Centre for Indigeneity, Ecology and Creativity.\n\n\n\nI have two years of experience working as an Undergraduate Researcher in Dr. Laura Kloepper’s Ecological Acoustics and Behavior lab at the University of New Hampshire. During my time in this lab I conducted acoustic research on the behavior of multiple species including giraffes, American Bullfrogs, and Moose. During my time studying abroad, I participated in research on New Zealand long-tailed bats to investigate how they are using their habitat in fragmented areas.\nI then joined Dr. Brittany Jellison’s Marine Ecophysiology Lab at the University of New Hampshire where I assisted with research on the effects of ocean acidification on Eastern Oysters. I participated in an internship during the summer of 2025 within this lab as an Undergraduate Research Assistant. I am currently analyzing data from this summer internship for my own research questions.\n\n\n\nEmail: olivia.boyan@unh.edu\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I am interested in research and education. I really enjoy participating in science whether that be assisting others with research or conducting my own projects. I also enjoy educating others, especially the public, about animals and our environment."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "About Me",
     "section": "",
-    "text": "I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology."
+    "text": "I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology. I have taken classes at Shoals Marine Laboratory including Marine Mammal Biology, Sustainable Fisheries, and Shark Biology and Conservation. I was also chosen to partake in an ecology based study abroad opportunity in New Zealand with the EcoQuest Centre for Indigeneity, Ecology and Creativity."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "About Me",
     "section": "",
-    "text": "I have lab experience"
+    "text": "I have two years of experience working as an Undergraduate Researcher in Dr. Laura Kloepper’s Ecological Acoustics and Behavior lab at the University of New Hampshire. During my time in this lab I conducted acoustic research on the behavior of multiple species including giraffes, American Bullfrogs, and Moose. During my time studying abroad, I participated in research on New Zealand long-tailed bats to investigate how they are using their habitat in fragmented areas.\nI then joined Dr. Brittany Jellison’s Marine Ecophysiology Lab at the University of New Hampshire where I assisted with research on the effects of ocean acidification on Eastern Oysters. I participated in an internship during the summer of 2025 within this lab as an Undergraduate Research Assistant. I am currently analyzing data from this summer internship for my own research questions."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "About Me",
+    "section": "",
+    "text": "Email: olivia.boyan@unh.edu"
   }
 ]
