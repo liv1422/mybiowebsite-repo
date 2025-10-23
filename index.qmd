@@ -11,7 +11,8 @@ about:
 :::{#me}
 
 ## Goals
-I am interested in research and education. I really enjoy participating in science whether that be assisting others with research or conducting my own projects. I also enjoy educating others, especially the public, about animals and our environment. 
+<<<<<<< HEAD
+I am interested in research and education. I really enjoy participating in science whether that be assisting others with research or conducting my own projects. I also enjoy educating others, especially the public, about animals and our environment. I am especially interested in marine organisms including marine mammals, intertidal organisms, and benthic communities.
 
 ## Education
 I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology. I have taken classes at Shoals Marine Laboratory including Marine Mammal Biology, Sustainable Fisheries, and Shark Biology and Conservation. I was also chosen to partake in an ecology based study abroad opportunity in New Zealand with the EcoQuest Centre for Indigeneity, Ecology and Creativity.  
