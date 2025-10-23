@@ -1,0 +1,43 @@
+---
+title: "Relevant Courses"
+---
+
+## Shoals Marine Laboratory Courses
+
+-   Marine Mammal Biology
+-   Sustainable Fisheries
+-   Shark Biology and Conservation
+
+## Study Abroad in New Zealand Courses
+
+-   Ecology and Biogeography of New Zealand
+
+-   Restoration Ecology and Ecosystem Management in New Zealand
+
+-   Environmental Policy, Planning and Sustainability in New Zealand
+
+-   Applied Directed Research in New Zealand
+
+## UNH Courses
+
+-   Marine Ecology
+
+-   Marine Invertebrate Evolution and Ecology
+
+-   Basic SCUBA
+
+-   Animal Behavior
+
+-   Introduction to Marine Biology
+
+-   Genetics of Animals
+
+-   Animal Physiology
+
+-   Ecology
+
+-   Biostatistics
+
+-   Data Science for Life Sciences
+
+-   Comparative Vertebrate Morphology
