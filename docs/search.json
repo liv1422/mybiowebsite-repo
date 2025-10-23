@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology.\n\n\n\nI have lab experience\nThanks for checking out my web site!"
+    "text": "I am really interested in working with marine mammals. My favorite marine mammal is a whale! So, ask me about whales! I took a course at the University of New Hampshire on marine invertebrates and can ID most New England marine invertebrates.\n\n\n\nI want to work with marine animals\nI would love to work in an Aquarium post grad\n\n\n\n\nI am currently a senior at the University of New Hampshire studying Zoology with a minor in Marine Biology.\n\n\n\nI have lab experience\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I want to work with marine animals\nI would love to work in an Aquarium post grad"
   },
   {
     "objectID": "index.html#education",
@@ -33,5 +26,19 @@
     "title": "About Me",
     "section": "",
     "text": "I have lab experience"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Projects",
+    "section": "Project 3",
+    "text": "Project 3"
   }
 ]
